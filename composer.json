@@ -1,0 +1,12 @@
+{
+    "name": "m1x0n/bsa-php-2017-db",
+    "description": "Home assignemnt for Databases lecutre @ Binary Studio Academy 2017",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "m1x0n",
+            "email": "mmorozovm@gmail.com"
+        }
+    ],
+    "require": {}
+}
