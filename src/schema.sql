@@ -1,6 +1,6 @@
+DROP TABLE IF EXISTS `bookings`;
 DROP TABLE IF EXISTS `tickets`;
 DROP TABLE IF EXISTS `users`;
-DROP TABLE IF EXISTS `bookings`;
 CREATE TABLE `tickets` (
   `id` INT(11) NOT NULL AUTO_INCREMENT,
   `title` varchar(255) not null,
